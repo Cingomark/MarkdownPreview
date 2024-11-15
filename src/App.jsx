@@ -9,7 +9,7 @@ const markdownDefault = `# Main Heading (H1)
 
 ## Subheading (H2)
 
-This is a link to [OpenAI's website](https://www.openai.com).
+This is a [link to my website](https://cing0mark.ct8.pl).
 
 Here is some inline code: \`console.log("Hello, World!");\`
 
